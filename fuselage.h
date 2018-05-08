@@ -1,9 +1,9 @@
 #include<iostream>
 using namespace std;
-class fuselage
+class fuse_lage
 {
     public:
-    fuselage()
+    fuse_lage()
     {
 
     }

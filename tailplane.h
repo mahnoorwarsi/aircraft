@@ -2,10 +2,12 @@
 using namespace std;
 class tailplane
 {
+    private:
+    planerudder rudder;
     public:
-    tailplane()
+    tail_plane()
     {
-
+        this->rudder=rudder;
     }
     rudderleft()
     {
